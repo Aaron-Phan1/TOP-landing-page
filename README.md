@@ -50,8 +50,8 @@ The goal of this project is to create an entire web page based on a provided des
 
 ### Instructions
 1. **Design Reference:** 
-    - Full design ![Image One: Full Design](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png), 
-    - Colours and Fonts ![Image Two: Colour and Fonts](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png).
+    - Full design ![Image One: Full Design](./readme-images/full-design.png), 
+    - Colours and Fonts ![Image Two: Colour and Fonts](./readme-images/colours-fonts.png).
 2. **Content and Structure:** Start by adding all the necessary HTML content for the web page.
 3. **Styling:** Apply CSS styles to match the design as closely as possible. Use Flexbox to handle the layout.
 4. **Sections:** The web page consists of 4 main sections and a footer. Tackle one section at a time, starting from the top.
