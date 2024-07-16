@@ -29,7 +29,6 @@ Welcome to my Landing Page project, part of [The Odin Project's](https://www.the
 - **Lists:** Creating ordered and unordered lists.
 - **Links and Images:** Embedding links and images into a webpage.
 - **Commit Messages:** Writing clear and concise commit messages for version control.
-- **Project: Recipes:** Applying HTML skills to create a basic recipe webpage.
 
 ### CSS Foundations
 - **Intro to CSS:** Learning the basics of CSS and how to apply styles to HTML elements.
@@ -43,7 +42,6 @@ Welcome to my Landing Page project, part of [The Odin Project's](https://www.the
 - **Growing and Shrinking:** Controlling how elements grow and shrink within a flex container.
 - **Axes:** Understanding the main and cross axes in Flexbox.
 - **Alignment:** Aligning items within a flex container.
-- **Project: Landing Page:** Applying Flexbox skills to create a responsive landing page layout.
 
 ## Project Details
 
