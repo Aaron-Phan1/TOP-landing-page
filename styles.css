@@ -1,0 +1,34 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+
+.sections {
+    height: 233vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.section1, 
+.section2 {
+    flex: 4;
+}
+
+.section3,
+.section4 {
+    flex: 3;
+}
+
+.footer {
+    height: 72px;
+}
+
+.section1,
+.footer {
+    background: #1F2937;
+}
+
+.section3 {
+    background: #E5E7EB;
+}
